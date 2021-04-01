@@ -1,0 +1,22 @@
+Circuit: * D:\Electronics\Projects\Traffic Lights\Trafic Lights Simulation\Cascaded Timer.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Dec 17 03:48:00 2018
+Total elapsed time: 0.470 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17657
+traniter = 17642
+tranpoints = 4879
+accept = 4063
+rejected = 816
+matrix size = 41
+fillins = 2
+solver = Normal
+Thread vector: 4.9/3.4[2] 2.4/2.0[2] 0.7/1.2[1] 0.2/1.0[1]  2592/500
+Matrix Compiler1: 1.39 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 2.48 KB object code size  0.4/0.6/[0.3]
+
